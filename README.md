@@ -1,16 +1,16 @@
 #Below are some examples done in a class where we practice Python + some of my tests using Loops
 
 #Centered title
-txt = "Welcome to trial number 2!"
+'''txt = "Welcome to trial number 2!"
 z = txt.center(80)
-print(z)
+print(z)'''
 from turtle import position
 
 
 print()
 
 #Week 1 practices
-print("A. This is Week 1 practice in class".center(40))
+'''print("A. This is Week 1 practice in class".center(40))
 print()
 
 #Using Operators
